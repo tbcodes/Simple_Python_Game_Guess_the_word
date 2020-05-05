@@ -1,2 +1,6 @@
-# Simple_Python_Game_Guess_the_word
-Guess the Word - Python Game - Truzz Blogg
+# Simple Python Game: Guess the word
+## Guess the Word - Python Game - Truzz Blogg
+
+
+Youtube link: https://youtu.be/2kVb0_EJgn4
+
